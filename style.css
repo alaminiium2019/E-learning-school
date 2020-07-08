@@ -12,6 +12,10 @@ section{
     width: 1440px;
     
 }
+.testominal{
+    min-height: 100vh;
+    background-color: wheat;
+}
 nav ul li a{
     font-size: 20px;
     color:#000000;
