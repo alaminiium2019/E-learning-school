@@ -1,0 +1,70 @@
+body{
+    font-size: 16px;
+}
+section{
+    margin-bottom: 50px !important;
+    margin: auto;
+}
+.first-part{
+    background-color: #F0FFF0;
+    height: 576px;
+    width: 1440px;
+    
+}
+
+nav ul li a{
+    font-size: 20px;
+    color:#000000;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 24px;
+    position: static;
+    left: 5px;
+    top:5px;
+}
+nav ul li{
+    padding-left: 20px;
+}
+.signin-button{
+    border-radius: 30px;
+    padding: 12px 28px !important;
+    background-color: #21B573;
+    color: white;
+    font-style: normal;
+}
+
+.learn-highlight{
+    font-size: 55px;
+    line-height: 60px;
+    font-weight: bold;
+}
+.schedule-text{
+    color:#21B573;
+}
+
+.get-button{
+    border-radius: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #21B573;
+    color: white;
+    font-style: normal;
+    line-height: 60px;
+}
+
+.photo-carousel img{
+    width: 640px;
+}
+
+.study_material{
+    width: 1200px;
+}
+.material-img img{
+    width: 50px;
+    height: 70px;
+}
+.card{
+    height: 200px;
+}
