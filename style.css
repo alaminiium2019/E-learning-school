@@ -1,5 +1,11 @@
 body{
     font-size: 16px;
+    margin: auto;
+    margin: 0;;
+}
+.all{
+    width: 1440px;
+    margin: auto;
 }
 section{
     margin-bottom: 50px !important;
@@ -9,12 +15,16 @@ section{
 .first-part{
     background-color: #F0FFF0;
     height: 576px;
-    width: 1440px;
+    
     
 }
-.testominal{
-    min-height: 100vh;
-    background-color: wheat;
+.part-2{
+    margin-bottom: 50px;
+}
+#part-3 h1{
+    margin-bottom: 50px;
+    font-size: 50px;
+
 }
 nav ul li a{
     font-size: 20px;
@@ -64,11 +74,49 @@ nav ul li{
 
 .study_material{
     width: 1200px;
+    margin-bottom: 80px !important;
+    
+}
+.study-online-course{
+    height: 700px;
+    width: 1200px;
 }
 .material-img img{
-    width: 50px;
-    height: 70px;
+    width: 70px;
+    height: 100px;
+}
+.material-img{
+    background-color: #F8FFFB;
+    border: none;
+}
+#special{
+    box-shadow: 5px 10px 5px whitesmoke;
+}
+.body-card1{
+    height: 800px;
 }
 .card{
-    height: 200px;
+    height: 250px;
+}
+
+.testominal{
+    width: 1200px;
+    margin: auto;
+    margin-top: 20px !important;
+    height: 400px !important;
+}
+.testominal h1{
+    margin-bottom: 50px;
+}
+footer{
+    width: 1440px;
+    margin: auto;
+    background-color: black;
+    color: thistle;
+    padding: 30px;
+    font-size: 18px;
+
+}
+.col-background{
+    border: 2px solid red;
 }
