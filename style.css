@@ -4,6 +4,7 @@ body{
 section{
     margin-bottom: 50px !important;
     margin: auto;
+    
 }
 .first-part{
     background-color: #F0FFF0;
@@ -11,7 +12,6 @@ section{
     width: 1440px;
     
 }
-
 nav ul li a{
     font-size: 20px;
     color:#000000;
