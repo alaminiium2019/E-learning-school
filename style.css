@@ -1,31 +1,9 @@
-body{
-    font-size: 16px;
-    margin: auto;
-    margin: 0;;
-}
-.all{
-    width: 1440px;
-    margin: auto;
-}
-section{
-    margin-bottom: 50px !important;
-    margin: auto;
-    
-}
-.first-part{
-    background-color: #F0FFF0;
-    height: 576px;
-    
-    
-}
-.part-2{
-    margin-bottom: 50px;
-}
-#part-3 h1{
-    margin-bottom: 50px;
-    font-size: 50px;
 
+header{
+    background-color:#F0FFF0;
 }
+
+
 nav ul li a{
     font-size: 20px;
     color:#000000;
@@ -47,11 +25,6 @@ nav ul li{
     font-style: normal;
 }
 
-.learn-highlight{
-    font-size: 55px;
-    line-height: 60px;
-    font-weight: bold;
-}
 .schedule-text{
     color:#21B573;
 }
@@ -69,54 +42,30 @@ nav ul li{
 }
 
 .photo-carousel img{
-    width: 640px;
+    width: 100%;
 }
-
-.study_material{
-    width: 1200px;
-    margin-bottom: 80px !important;
-    
-}
-.study-online-course{
-    height: 700px;
-    width: 1200px;
-}
-.material-img img{
-    width: 70px;
-    height: 100px;
-}
-.material-img{
-    background-color: #F8FFFB;
-    border: none;
-}
-#special{
-    box-shadow: 5px 10px 5px whitesmoke;
-}
-.body-card1{
-    height: 800px;
+.card img{
+    width: 30%;
+    height: 30%;
 }
 .card{
-    height: 250px;
+    background-color:rgba(209, 245, 243,0.2);
+    box-shadow: 5px 5px 10px 10px gainsboro;
+    border-radius: 5px;
 }
 
-.testominal{
-    width: 1200px;
-    margin: auto;
-    margin-top: 20px !important;
-    height: 400px !important;
+.card-course img{
+    width: 100%;
+    
 }
-.testominal h1{
-    margin-bottom: 50px;
+.cale img{
+    width: 30px;
+    padding-right: 8px;
 }
-footer{
-    width: 1440px;
+.test-photo img{
     margin: auto;
-    background-color: black;
-    color: thistle;
-    padding: 30px;
-    font-size: 18px;
+}
 
-}
-.col-background{
-    border: 2px solid red;
-}
+
+
+
